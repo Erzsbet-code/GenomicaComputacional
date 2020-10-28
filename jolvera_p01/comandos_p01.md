@@ -185,7 +185,9 @@ zless SRR10971381_R2.fastq.gz | grep '@SRR10971381' | wc
 **Respuesta 9:**
 
 `.fasta` : Secuencias de nucleótidos. 
+
 `.faa` : Secuencias de aminoácidos.
+
 `.fastqc` : Secuencias de nucléotidos. Después se presentan letras acompañadas de otros símbolos que nos indica la calidad del genoma, es decir, la 
 probabildiad de que el nucléotido mostrado en la secuencia sea el correcto. 
 
