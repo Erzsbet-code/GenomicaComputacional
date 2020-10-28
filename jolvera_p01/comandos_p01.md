@@ -4,6 +4,7 @@
 # Parte I.
 
 **Respuesta 1:**
+echo $0 
 
 /bin/bash
 
