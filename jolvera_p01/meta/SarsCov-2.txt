@@ -1,0 +1,11 @@
+La secuenciación del genoma de SARS-Cov-2, permitió la identificación de proteínas que componen su estructura:
+Nucleocápside (NP): Encargada de cubrir al RNA de cadena sencilla.
+Glicoproteína de membrana (M) y proteína de la envoltura (EP): Envuelven al complejo RNA-NP.
+Proteína espícula glicosilada (S): Compuesta de un ectodominio: 
+Trímero de proteínas S1: Encargado de la unión del virus al receptor de células humanas (ACE2) del tracto respiratorio, gastrointestinal y/o del sistema 
+nervioso central. 
+Tallo trimétrico S2: Encargado de fusionarse con la membrana de la célula para inyectar el RNA del virus.
+Esta información ha permitido desarrollar pruebas diagnósticas; la identificación de blancos terapéuticos para la producción de vacunas, anticuerpos o 
+nanopartículas que inhiban la inyección del RNA viral a nuestras células.
+
+
