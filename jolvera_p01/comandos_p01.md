@@ -45,11 +45,13 @@ ls - lth
 **Respuesta 3:**
 
 echo "Después de la parte I. necesito un descanso de exactamente 30 segundos."
+
 sleep 30 && "Ya puedo continuar!"
 
 **Respuesta 4:**
 
 echo "Después de la parte I. necesito un descanso de exactamente 30 segundos."
+
 sleep 300 && "Ya puedo continuar!"
 
 Ctrl C
@@ -64,15 +66,25 @@ mv GenomicaComputacional/jolvera_p01/meta
 
 **Respuesta 2:**
 
+-Renombrar los archivos:
+
 mv sequence.fasta sarscov2_genome.fasta
+
 mv sequence.gff3 sarscov2_genome.gff3
 
 mv sequence.fasta splike_c.faa
+
 mv sequence1.fasta splike_b.faa
+
 mv sequence2.fasta splike_a.faa
 
+-Descripción de SARS-CoV-2 spike ectodomain structure:
+
 nano SarsCov-2_Spike.txt
+
 mv SarsCov-2_Spike.txt meta/
+
+-Mover los 8 archivos al directorio data/raw_data:
 
 mv sarscov2_genome.fasta sarscov2_genome.gff3 splike_c.faa splike_b.faa splike_a.faa SRR10971381_R1.fastq.gz SRR10971381_R2.fastq.gz 
 sarscov2_assembly.fasta.gz GenomicaComputacional/jolvera_p01/data/raw_data
@@ -82,7 +94,9 @@ sarscov2_assembly.fasta.gz GenomicaComputacional/jolvera_p01/data/raw_data
 **Respuesta 1:**
 
 ln -s ~/raw_data/splike_c01.faa
+
 ln -s ~/raw_data/splike_b.faa
+
 ln -s ~/raw_data/splike_a.faa
 
 **Respuesta 2:**
@@ -116,6 +130,7 @@ a que cambiamos de lugar lso archivos originales.
 -Explorar los archivos:
 
 less sarscov2_genome.fasta
+
 zless sarscov2_assembly.fasta.gz
 
 -Imprimir las 3 primeras líneas:
