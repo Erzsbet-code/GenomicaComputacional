@@ -23,11 +23,11 @@ mv raw_data data/
 
 Cuando creamos un proyecto en bioinformática es muy importante tener en orden los datos que estamos utilizando. Esto se logra a través de la creación 
 de un directorio (carpeta) con subdirectorios, que permiten clasificar los datos: 
-Data,contiene los datos crudos y los datos modificados que se colocan en los subdirectorios "raw_data" y "filtered".
-Meta,contiene metadatos o documentos para procesar datos.
-Scripts,contiene los scripts necesarios que permiten correr el análisis de principio a fin. 
-Figures,contiene el código que se utilizó para hacer las figuras.
-Archive,contiene scripts y resultados que no se necesitarán para el análisis, pero que no es buena idea borrar. Es por esta razón que no se sube al 
+Data, contiene los datos crudos y los datos modificados que se colocan en los subdirectorios "raw_data" y "filtered".
+Meta, contiene metadatos o documentos para procesar datos.
+Scripts, contiene los scripts necesarios que permiten correr el análisis de principio a fin. 
+Figures, contiene el código que se utilizó para hacer las figuras.
+Archive, contiene scripts y resultados que no se necesitarán para el análisis, pero que no es buena idea borrar. Es por esta razón que no se sube al 
 repositorio.
    
 # Parte II.
@@ -122,8 +122,8 @@ less splike_*.faa >> glycoproteins.faa
 
 mv data/raw_data/splike_*.faa archive/
 
-No puedo abrir la ligas simbólicas suaves porque los archivos originales se movieron de carpeta (de raw_data a achive). La liga que existía se rompió debido 
-a que cambiamos de lugar lso archivos originales. 
+No puedo abrir la ligas simbólicas suaves porque los archivos originales se movieron de carpeta (de raw_data a archive). La liga que existía se rompió, debido 
+a que cambiamos de lugar los archivos originales. 
 
 **Respuesta 6:**
 
@@ -147,8 +147,8 @@ zless sarscov2_assembly.fasta.gz | head -3
 CACAAATCTTAACACTCTTCCCTACACGACGCTCTTCCGATCTACGCCGGGCCATTCGTA
 CGAACCGATACCTGTGGTAAAGGGTCCTACTGTATGGTGGTACACGAGTAGTAGCAAATG
 
-La diferencia entre el número de lecturas de los archivos .fasta, se debe a que uno de los archivos se encuentra comprimido (sarscov2_assembly.fasta.gz) por 
-lo que tiene una mayor cantidad de infromación en comparación con el archivo sarscov2_genome.fasta. 
+La diferencia entre el número de lecturas de los archivos .fasta, se debe a que los archivos de sarscov2_assembly.fasta.gz se encuentran comprimidos, por 
+lo que tiene una mayor cantidad de información, en comparación con el archivo sarscov2_genome.fasta. 
 
 **Respuesta 7:**
 
@@ -206,7 +206,7 @@ grep 'gene' sarscov2_genome.gff3 | cut -f3 | sort | uniq -c
 
 4 stem_loop
 
-El campo tres corresponde a las regiones del gen. `CDS` son regiones del gen que codifican a una proteína, `gene` corresponde a una región que puede 
-codificar proteínas ó RNA. 
+El campo tres corresponde a las regiones del gen. CDS son regiones del gen que codifican a una proteína, gene corresponde a una región que puede 
+codificar proteínas o RNA. 
  
 
