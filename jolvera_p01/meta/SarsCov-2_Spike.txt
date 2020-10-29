@@ -1,12 +1,7 @@
-Función del ectodominio que compone a las espículas de SARS-Cov-2:
-El ectodominio se compone de dos subunidades:
-S1: Compuesto por 3 proteínas que permiten la unión al receptor angiotensina 2 (ACE 2) de las células humanas. 
-S2: Compuesto por 3 proteínas que forman un tallo, al entrar en contacto con activadores (proteasa) que se encuentran en el citoplasma, en la membrana 
-celular o los lisosomas, permiten la fusión de S2 con la membrana de la célula que permite la entrada del ARN viral.
-
-La presencia de proteasas va a cambiar la conformación del extodominio, por lo que las proteínas en forma de espícula que forman la corona del virus 
-presentarán dos estados conformacionales: Prefusión y profusión.
-
-El desarrollo de péptidos o anticuerpos, inhiben la unión del virus a los receptores de las células. 
+Para entender la función del ectodominio que forma las espículas de SARS-Cov-2, primero tenemos que prestar atención a las 2 subunidades que las componen:
+Subunidad S1: Formada por 3 proteínas que permiten la unión del virus, al receptor angiotensina 2 (ACE 2) de las células humanas. 
+Subunidad S2: Compuesto por 3 proteínas que forman un tallo. En el citoplasma, membrana celular y lisosomas de nuestras células, se encuentran enzimas denominadas proteasas que se encargan de romper los enlaces peptídicos que unen a los aminoácidos, que a su vez forman a las proteínas.
+La presencia de proteasas va a cambiar la conformación del ectodominio, pues va a romper los enlaces que componen a las proteínas en forma de espícula, permitiendo la fusión de S2 con la membrana de la célula y la entrada del ARN viral.
+Su estudio es muy importante para la busqueda de un tratamiento, pues el desarrollo de péptidos o anticuerpos que inhiban la unión de las proteínas del virus a los receptores de las células, evita la infección del ARN viral. 
  
 
