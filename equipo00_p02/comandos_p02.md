@@ -14,7 +14,10 @@ Plataforma/compañía | Longitud de reads (pb) | # reads x run | Tiempo | Costo 
 Primera generación | | | | | | |
 Sanger/Life Technologies | 800 | 1 | 2 hrs | 2400 | 0.3 | Dideoxy terminator
 Segunda generación | | | | | | |
+Pirosecuenciación por síntesis (SBS)/454 Life Sciences-Roche | 700 | 1×106 | 24-48 hrs | 10 | 1 | Pirosecuenciación |
 Tercera generación | | | | | | |
+
+Referencias:
 
 # Parte II.
 
