@@ -31,13 +31,22 @@ Referencias:
 
 Las secuencias están en la sección Associated Data >> Data Availability Statement >>  http://www.ebi.ac.uk/ena/data/view/PRJEB5172
 
+Descomprimir:
+
 unzip ERR486828.fastq.zp 
 
 gunzip ERR486828_1.fastq.gz
 
 gunzip ERR486828_2.fastq.gz
 
+Convertir archivo...
 
+
+zcat ERR486828_1.fastq | echo $((`wc -l`/4))
+410959
+
+zcat ERR486828_2.fastq | echo $((`wc -l`/4))
+410959
 
 
 # Parte III.
