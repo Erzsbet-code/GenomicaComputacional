@@ -1,5 +1,5 @@
 # Comandos de la prática 02
-## Nombre del equipo
+## Equipo 06
 ### Integrante 1: Jennifer Erzsebet Olvera Martínez 
 ### Integrante 2:
 ### Integrante 3:
@@ -39,8 +39,10 @@ gunzip ERR486828_1.fastq.gz
 
 gunzip ERR486828_2.fastq.gz
 
-Convertir archivo...
+Convertir archivo:
 
+
+**Respuesta 2:**
 
 zcat ERR486828_1.fastq | echo $((`wc -l`/4))
 
@@ -50,7 +52,32 @@ zcat ERR486828_2.fastq | echo $((`wc -l`/4))
 
 410959
 
+**Respuesta 3:**
+
 
 # Parte III.
 
+**Respuesta 1:**
+
+**Respuesta 2:**
+
+**Respuesta 3:**
+
+**Respuesta 4:**
+
+
+
 # Parte IV. 
+
+**Respuesta 1:**
+
+**Respuesta 2:**
+
+**Respuesta 3:**
+
+**Respuesta 4:**
+
+**Respuesta 5:**
+
+**Respuesta 6:**
+
