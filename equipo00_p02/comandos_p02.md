@@ -29,6 +29,15 @@ Referencias:
 
 **Respuesta 1:**
 
+Las secuencias están en la sección Associated Data >> Data Availability Statement >>  http://www.ebi.ac.uk/ena/data/view/PRJEB5172
+
+unzip ERR486828.fastq.zp 
+
+gunzip ERR486828_1.fastq.gz
+
+gunzip ERR486828_2.fastq.gz
+
+
 
 
 # Parte III.
