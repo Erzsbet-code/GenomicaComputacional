@@ -1,7 +1,7 @@
 # Comandos de la prática 02
 ## Nombre del equipo
 ### Integrante 1: Jennifer Erzsebet Olvera Martínez 
-### Integrante 2:
+### Integrante 2: Christian Rodrigo García Gómez
 ### Integrante 3:
 ### Integrante 4:
 
