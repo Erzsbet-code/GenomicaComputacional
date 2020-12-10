@@ -43,9 +43,11 @@ Convertir archivo...
 
 
 zcat ERR486828_1.fastq | echo $((`wc -l`/4))
+
 410959
 
 zcat ERR486828_2.fastq | echo $((`wc -l`/4))
+
 410959
 
 
