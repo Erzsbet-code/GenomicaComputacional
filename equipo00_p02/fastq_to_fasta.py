@@ -24,4 +24,4 @@ def fastq_to_fasta(input_file, output_file):
 
 
 if __name__ == '__main__':
-	fastq_to_fasta('test.fastq', 'test.fasta')
+	fastq_to_fasta(sys.argv[1], sys.argv[2])
