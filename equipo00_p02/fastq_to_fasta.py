@@ -4,17 +4,19 @@ def fastq_to_fasta(input_file, output_file):
 
 	with open(input_file, 'r') as i_f:
 
-		lines = i_f.read().split('\n')
+		lines = list(filter(lambda l: len(l) > 0, i_f.read().split('\n')))
 
 		output_lines = list()
 
-		for i, line in enumerate(lines):
+		for j in range(0, len(lines), 2):
 
-			if '@' in line:
+			header, sequence = tuple(lines[j: j + 2])
 
-				output_lines.append(line)
+			if header[0] == '@':
 
-				output_lines.append(lines[i + 1])
+				output_lines.append(header)
+
+				output_lines.append(sequence)
 
 		output_lines = list(map(lambda x: x.replace('@', '>'), output_lines))
 
