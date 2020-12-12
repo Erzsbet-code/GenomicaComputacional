@@ -2,7 +2,7 @@
 ## Equipo 06
 ### Integrante 1: Jennifer Erzsebet Olvera Martínez
 ### Integrante 2: Christian Rodrigo García Gómez
-### Integrante 3:
+### Integrante 3: Jorge Antonio Ruiz López
 ### Integrante 4:
 
 # Parte I.
