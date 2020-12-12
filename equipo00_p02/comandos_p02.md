@@ -97,7 +97,7 @@ además ERR486828_1_fastqc tiene un score bastante alto.
 
 Calculen y reporten la cobertura del genoma tomando en cuenta que:
 
-covertura = (cantidad de lecturas*longitud de lecturas) / total del tamaño del genoma (bp)
+cobertura = (cantidad de lecturas*longitud de lecturas) / total del tamaño del genoma (bp)
 
 Entonces:
 
@@ -122,6 +122,10 @@ Entonces:
 
 **Respuesta 4:**
 
+<<<<<<< HEAD
+=======
+Los archivos de ésta pregunta se encuentran en la carpeta parteIV, incluyendo el .html
+>>>>>>> daf5572cf18812f654a826b77bf00cc479001bd2
 
 **Respuesta 5:**
 
