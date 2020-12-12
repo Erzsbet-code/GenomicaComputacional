@@ -5,6 +5,7 @@ import sys
 def longitud_por_secuencia(entrada):
     long = 0
     lista = list()
+    # Poner tu ruta en los archivos
     lectura = open("/home/jorge/Documentos/2021-1/Genomica_Equipo/GenomicaComputacional/equipo00_p02/data/" +
             str(entrada), "r")
 
