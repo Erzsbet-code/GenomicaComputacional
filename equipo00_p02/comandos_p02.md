@@ -3,7 +3,7 @@
 ### Integrante 1: Jennifer Erzsebet Olvera Martínez
 ### Integrante 2: Christian Rodrigo García Gómez
 ### Integrante 3: Jorge Antonio Ruiz López
-### Integrante 4:
+### Integrante 4: Azul Itania Rodríguez Ferrer
 
 # Parte I.
 
@@ -106,12 +106,22 @@ Entonces:
 # Parte IV.
 
 **Respuesta 1:**
+Se trabajó con Pseudomonas chlororaphis, que es una rizobacteria que se caracteriza por actuar como agente de control biológico contra ciertos patógenos fúngicos de las plantas
+ mediante la producción de antibióticos de tipo fenazina
 
 **Respuesta 2:**
 
+Las tecnologías utilizadas en el estudio, en primer lugar se seleccionó el tamaño con BluePippin (10 kb) y se secuenció en la plataforma de secuenciación RSII de Pacific
+ Biosciences (PacBio), posteriormente,el ensamblaje de novo del genoma se realizó usando el ensamblador ABruijn. todas las cepas también se secuenciaron con Illumina MiSeq;
+ lecturas finales emparejadas de 2 × 300 pb). La información se obtuvo de: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7204214/ 
+   
 **Respuesta 3:**
 
+covertura = (cantidad de lecturas*longitud de lecturas) / total del tamaño del genoma (bp)
+Entonces: 
+
 **Respuesta 4:**
+
 
 **Respuesta 5:**
 
