@@ -125,4 +125,10 @@ Los archivos de ésta pregunta se encuentran en la carpeta parteIV, incluyendo e
 
 **Respuesta 5:**
 
+El valor de phred que tienen los  datos aqui presentados es de 33, por lo que los valores de 30-40 representados por color verde indican una buena calidad en las lecturas
+
 **Respuesta 6:**
+
+De acuerdo a los datos obtenidos, no se obtuvo ninguna lectura de mala calidad, no hay ninguna secuencia sobrerrepresentada, el score de calidad por secuencia es muy bueno 
+con un valor de 37, respecto al contedo de GC se observa una distribucion normal etc. Por lo que se  concluye que  no es necesario realizar ninguna modificación y se puede 
+continuar  con el análisis de datos.  
