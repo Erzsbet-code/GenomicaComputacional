@@ -54,6 +54,9 @@ zcat ERR486828_2.fastq | echo $((`wc -l`/4))
 
 **Respuesta 3:**
 
+ERR486828_1.fastq -> 62015945.80353434
+ERR486828_2.fastq -> 61836552.87111042
+
 
 # Parte III.
 
@@ -101,7 +104,13 @@ cobertura = (cantidad de lecturas*longitud de lecturas) / total del tamaño del 
 
 Entonces:
 
+Para ERR486828_1.fastq
 
+cobertura = (410959 * 62015945.80353434) / 150
+
+Para ERR486828_2.fastq
+
+cobertura = (410959 * 61836552.87111042) / 150
 
 # Parte IV.
 
@@ -110,6 +119,8 @@ Entonces:
 **Respuesta 2:**
 
 **Respuesta 3:**
+
+cobertura = (350707 * 52795683.4110953) / 150
 
 **Respuesta 4:**
 
