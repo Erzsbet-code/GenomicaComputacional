@@ -129,6 +129,6 @@ El valor de phred que tienen los  datos aqui presentados es de 33, por lo que lo
 
 **Respuesta 6:**
 
-De acuerdo a los datos obtenidos, no se obtuvo ninguna lectura de mala calidad, no hay ninguna secuencia sobrerrepresentada, el score de calidad por secuencia es muy bueno 
+De acuerdo a los datos obtenidos, no se obtuvo ninguna lectura de mala calidad, no hay ninguna secuencia sobre-representada, el score de calidad por secuencia es muy bueno 
 con un valor de 37, respecto al contedo de GC se observa una distribucion normal etc. Por lo que se  concluye que  no es necesario realizar ninguna modificación y se puede 
 continuar  con el análisis de datos.  
