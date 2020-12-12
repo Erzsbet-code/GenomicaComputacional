@@ -113,6 +113,8 @@ Entonces:
 
 **Respuesta 4:**
 
+Los archivos de ésta pregunta se encuentran en la carpeta parteIV, incluyendo el .html
+
 **Respuesta 5:**
 
 **Respuesta 6:**
