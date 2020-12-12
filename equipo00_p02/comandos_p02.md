@@ -120,21 +120,14 @@ cobertura = (410959 * 61836552.87111042) / 150
 **Respuesta 2:**
 
 
-   
+
 **Respuesta 3:**
 
-<<<<<<< HEAD
 cobertura = (350707 * 52795683.4110953) / 150
-=======
- 
->>>>>>> 49c92d1c8d532346985784ac7aa00ebf046f770e
 
 **Respuesta 4:**
 
-<<<<<<< HEAD
-=======
 Los archivos de ésta pregunta se encuentran en la carpeta parteIV, incluyendo el .html
->>>>>>> daf5572cf18812f654a826b77bf00cc479001bd2
 
 **Respuesta 5:**
 
@@ -142,6 +135,6 @@ El valor de phred que tienen los  datos aqui presentados es de 33, por lo que lo
 
 **Respuesta 6:**
 
-De acuerdo a los datos obtenidos, no se obtuvo ninguna lectura de mala calidad, no hay ninguna secuencia sobre-representada, el score de calidad por secuencia es muy bueno 
-con un valor de 37, respecto al contedo de GC se observa una distribucion normal etc. Por lo que se  concluye que  no es necesario realizar ninguna modificación y se puede 
+De acuerdo a los datos obtenidos, no se obtuvo ninguna lectura de mala calidad, no hay ninguna secuencia sobre-representada, el score de calidad por secuencia es muy bueno
+con un valor de 37, respecto al contedo de GC se observa una distribucion normal etc. Por lo que se  concluye que  no es necesario realizar ninguna modificación y se puede
 continuar  con el análisis de datos.  
